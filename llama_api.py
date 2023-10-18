@@ -4,6 +4,7 @@ import ctypes
 import time
 import datetime
 
+
 app = FastAPI()
 
 @app.post("/chat")
